@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_VdXy0A_GEe6eVvKfHQ4zxQ" name="ProductionDatamart" id="_8Az44A_FEe6eVvKfHQ4zxQ" label="ProductionDatamart" dataPackage="_VfIGUA_GEe6eVvKfHQ4zxQ" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/comptoired?noDatetimeStringSync=true&amp;serverTimezone=UTC" dbVersionString="MYSQL_8" Port="3306" Username="analyste" Password="enc:system.encryption.key.v1:Y/WX+S24/65CErvcHWspHJeMxc6k0Ma0l1OEd25jIDUfHqo=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="comptoired" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;serverTimezone=UTC" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_VdcEQA_GEe6eVvKfHQ4zxQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_VeDIQA_GEe6eVvKfHQ4zxQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_VeIAwA_GEe6eVvKfHQ4zxQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_VeIAwQ_GEe6eVvKfHQ4zxQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_VeIAwg_GEe6eVvKfHQ4zxQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_VeIAww_GEe6eVvKfHQ4zxQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_VeIAxA_GEe6eVvKfHQ4zxQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_VeIAxQ_GEe6eVvKfHQ4zxQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_VedX8A_GEe6eVvKfHQ4zxQ" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_VedX8Q_GEe6eVvKfHQ4zxQ" tag="DB ProductVersion" value="8.0.33"/>
+    <taggedValue xmi:id="_VedX8g_GEe6eVvKfHQ4zxQ" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_VdcrUA_GEe6eVvKfHQ4zxQ" key="CONN_PARA_KEY_USERNAME" value="analyste"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_VfIGUA_GEe6eVvKfHQ4zxQ" name="comptoired" dataManager="_VdXy0A_GEe6eVvKfHQ4zxQ"/>
+</xmi:XMI>

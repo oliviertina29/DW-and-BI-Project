@@ -1,0 +1,78 @@
+idProduits,Nom_produit,Prix_unitaire,"Nom de Categorie"
+1,Chai,90.0000,Boissons
+10,Ikura,155.0000,"Poissons et fruits de mer"
+11,"Queso Cabrales",105.0000,"Produits laitiers"
+12,"Queso Manchego La Pastora",190.0000,"Produits laitiers"
+13,Konbu,30.0000,"Poissons et fruits de mer"
+14,Tofu,116.2500,"Produits secs"
+15,"Genen Shouyu",77.5000,Condiments
+16,Pavlova,87.2500,Desserts
+17,"Alice Mutton",195.0000,Viandes
+18,"Carnarvon Tigers",312.5000,"Poissons et fruits de mer"
+19,"Teatime Chocolate Biscuits",46.0000,Desserts
+2,Chang,95.0000,Boissons
+20,"Sir Rodney's Marmalade",405.0000,Desserts
+21,"Sir Rodney's Scones",50.0000,Desserts
+22,"Gustaf's Knäckebröd",105.0000,"Pâtes et céréales"
+23,Tunnbröd,45.0000,"Pâtes et céréales"
+24,"Guaraná Fantástica",22.5000,Boissons
+25,"NuNuCa Nuß-Nougat-Creme",70.0000,Desserts
+26,"Gumbär Gummibärchen",156.1500,Desserts
+27,"Schoggi Schokolade",219.5000,Desserts
+28,"Rössle Sauerkraut",228.0000,"Produits secs"
+29,"Thüringer Rostbratwurst",618.9500,Viandes
+3,"Aniseed Syrup",50.0000,Condiments
+30,"Nord-Ost Matjeshering",129.4500,"Poissons et fruits de mer"
+31,"Gorgonzola Telino",62.5000,"Produits laitiers"
+32,"Mascarpone Fabioli",160.0000,"Produits laitiers"
+33,Geitost,12.5000,"Produits laitiers"
+34,"Sasquatch Ale",70.0000,Boissons
+35,"Steeleye Stout",90.0000,Boissons
+36,"Inlagd Sill",95.0000,"Poissons et fruits de mer"
+37,"Gravad lax",130.0000,"Poissons et fruits de mer"
+38,"Côte de Blaye",1317.5000,Boissons
+39,"Chartreuse verte",90.0000,Boissons
+4,"Chef Anton's Cajun Seasoning",110.0000,Condiments
+40,"Boston Crab Meat",92.0000,"Poissons et fruits de mer"
+41,"Jack's New England Clam Chowder",48.2500,"Poissons et fruits de mer"
+42,"Singaporean Hokkien Fried Mee",70.0000,"Pâtes et céréales"
+43,"Ipoh Coffee",230.0000,Boissons
+44,"Gula Malacca",97.2500,Condiments
+45,"Røgede sild",47.5000,"Poissons et fruits de mer"
+46,Spegesild,60.0000,"Poissons et fruits de mer"
+47,"Zaanse koeken",47.5000,Desserts
+48,Chocolade,63.7500,Desserts
+49,Maxilaku,100.0000,Desserts
+5,"Chef Anton's Gumbo Mix",106.7500,Condiments
+50,"Valkoinen suklaa",81.2500,Desserts
+51,"Manjimup Dried Apples",265.0000,"Produits secs"
+52,"Filo Mix",35.0000,"Pâtes et céréales"
+53,"Perth Pasties",164.0000,Viandes
+54,Tourtière,37.2500,Viandes
+55,"Pâté chinois",120.0000,Viandes
+56,"Gnocchi di nonna Alice",190.0000,"Pâtes et céréales"
+57,"Ravioli Angelo",97.5000,"Pâtes et céréales"
+58,"Escargots de Bourgogne",66.2500,"Poissons et fruits de mer"
+59,"Raclette Courdavault",275.0000,"Produits laitiers"
+6,"Grandma's Boysenberry Spread",125.0000,Condiments
+60,"Camembert Pierrot",170.0000,"Produits laitiers"
+61,"Sirop d'érable",142.5000,Condiments
+62,"Tarte au sucre",246.5000,Desserts
+63,Vegie-spread,219.5000,Condiments
+64,"Wimmers gute Semmelknödel",166.2500,"Pâtes et céréales"
+65,"Louisiana Fiery Hot Pepper Sauce",105.2500,Condiments
+66,"Louisiana Hot Spiced Okra",85.0000,Condiments
+67,"Laughing Lumberjack Lager",70.0000,Boissons
+68,"Scottish Longbreads",62.5000,Desserts
+69,Gudbrandsdalsost,180.0000,"Produits laitiers"
+7,"Uncle Bob's Organic Dried Pears",150.0000,"Produits secs"
+70,"Outback Lager",75.0000,Boissons
+71,Fløtemysost,107.5000,"Produits laitiers"
+72,"Mozzarella di Giovanni",174.0000,"Produits laitiers"
+73,"Röd Kaviar",75.0000,"Poissons et fruits de mer"
+74,"Longlife Tofu",50.0000,"Produits secs"
+75,"Rhönbräu Klosterbier",38.7500,Boissons
+76,Lakkalikööri,90.0000,Boissons
+77,"Original Frankfurter grüne Soße",65.0000,Condiments
+8,"Northwoods Cranberry Sauce",200.0000,Condiments
+9,"Mishi Kobe Niku",485.0000,Viandes

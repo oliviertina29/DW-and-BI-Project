@@ -1,0 +1,105 @@
+[ {
+  "baseItem" : {
+    "id" : "_4tHdEA_REe6eVvKfHQ4zxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_pwd0wBAXEe6eVvKfHQ4zxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ - clients",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_pwd0wBAXEe6eVvKfHQ4zxQ - clients",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_GsCwEBAUEe6eVvKfHQ4zxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gnPeEBAlEe6eVvKfHQ4zxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ - categories",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ - produits",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gnPeEBAlEe6eVvKfHQ4zxQ - produits",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_IDnM4BBJEe6eVvKfHQ4zxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1hddIBBEEe6eVvKfHQ4zxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1hddIBBEEe6eVvKfHQ4zxQ - temps",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_axs8UBBMEe6eVvKfHQ4zxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1hddIBBEEe6eVvKfHQ4zxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1hddIBBEEe6eVvKfHQ4zxQ - temps",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_1hddIBBEEe6eVvKfHQ4zxQ - ventes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ - clients",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ - commandes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_GkM-IA_REe6eVvKfHQ4zxQ - produits",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="row1.Code_categorie">
+  <variables name="row1.Ref_produit" value="null" talendType="id_String"/>
+  <variables name="row1.Nom_du_produit" value="null" talendType="id_String"/>
+  <variables name="row1.Code_categorie" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Quantite_par_unite" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Prixunitaire" value="null" talendType="id_BigDecimal" nullable="true"/>
+  <variables name="row1.Unites_en_stock" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.Unites_commandees" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.Niveau_de_reapprovisionnement" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.Indisponible" value="null" talendType="id_Boolean" nullable="true"/>
+  <variables name="row2.Code_categorie" value="null" talendType="id_String"/>
+  <variables name="row2.Nom_de_categorie" value="null" talendType="id_String"/>
+  <variables name="row2.Description" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.Illustration" value="null" talendType="id_byte[]" nullable="true"/>
+  <variables name="name13" value="value13"/>
+  <variables name="name14" value="value14"/>
+</expression:EMFExpression>

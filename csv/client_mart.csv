@@ -1,0 +1,100 @@
+idClients,adresse,Ville,Region,pays
+ALFKI,"Obere Str. 57",Berlin,NULL,Allemagne
+ANATR,"Avda. de la Constitución 2222","México D.F.",NULL,Mexique
+ANTON,"Mataderos  2312","México D.F.",NULL,Mexique
+AROUT,"120 Hanover Sq.",London,NULL,Royaume-Uni
+BERGS,"Berguvsvägen  8",Luleå,NULL,Suède
+BLAUS,"Forsterstr. 57",Mannheim,NULL,Allemagne
+BLONP,"24, place Kléber",Strasbourg,NULL,France
+BOLID,"C/ Araquil, 67",Madrid,NULL,Espagne
+BONAP,"12, rue des Bouchers",Marseille,NULL,France
+BOTTM,"23 Tsawassen Blvd.",Tsawassen,BC,Canada
+BSBEV,"Fauntleroy Circus",London,NULL,Royaume-Uni
+CACTU,"Cerrito 333","Buenos Aires",NULL,Argentine
+CENTC,"Sierras de Granada 9993","México D.F.",NULL,Mexique
+CHOPS,"Hauptstr. 29",Bern,NULL,Suisse
+COMMI,"Av. dos Lusíadas, 23","São Paulo",SP,Brésil
+CONSH,"Berkeley Gardens
+12  Brewery ",London,NULL,Royaume-Uni
+DRACD,"Walserweg 21",Aachen,NULL,Allemagne
+DUMON,"67, rue des Cinquante Otages",Nantes,NULL,France
+EASTC,"35 King George",London,NULL,Royaume-Uni
+ERNSH,"Kirchgasse 6",Graz,NULL,Autriche
+FAMIA,"Rua Orós, 92","São Paulo",SP,Brésil
+FISSA,"C/ Moralzarzal, 86",Madrid,NULL,Espagne
+FOLIG,"184, chaussée de Tournai",Lille,NULL,France
+FOLKO,"Åkergatan 24",Bräcke,NULL,Suède
+FRANK,"Berliner Platz 43",München,NULL,Allemagne
+FRANR,"54, rue Royale",Nantes,NULL,France
+FRANS,"Via Monte Bianco 34",Torino,NULL,Italie
+FURIB,"Jardim das rosas n. 32",Lisboa,NULL,Portugal
+GALED,"Rambla de Cataluña, 23",Barcelona,NULL,Espagne
+GODOS,"C/ Romero, 33",Sevilla,NULL,Espagne
+GOURL,"Av. Brasil, 442",Campinas,SP,Brésil
+GREAL,"2732 Baker Blvd.",Eugene,OR,États-Unis
+GROSR,"5ª Ave. Los Palos Grandes",Caracas,DF,Venezuela
+HANAR,"Rua do Paço, 67","Rio de Janeiro",RJ,Brésil
+HILAA,"Carrera 22 con Ave. Carlos Soublette #8-35","San Cristóbal",Táchira,Venezuela
+HUNGC,"City Center Plaza
+516 Main St.",Elgin,OR,États-Unis
+HUNGO,"8 Johnstown Road",Cork,"Co. Cork",Irlande
+ISLAT,"Garden House
+Crowther Way",Cowes,"Isle of Wight",Royaume-Uni
+KOENE,"Maubelstr. 90",Brandenburg,NULL,Allemagne
+LACOR,"67, avenue de l'Europe",Versailles,NULL,France
+LAMAI,"1 rue Alsace-Lorraine",Toulouse,NULL,France
+LAUGB,"1900 Oak St.",Vancouver,BC,Canada
+LAZYK,"12 Orchestra Terrace","Walla Walla",WA,États-Unis
+LEHMS,"Magazinweg 7","Frankfurt a.M. ",NULL,Allemagne
+LETSS,"87 Polk St.
+Suite 5","San Francisco",CA,États-Unis
+LILAS,"Carrera 52 con Ave. Bolívar #65-98 Llano Largo",Barquisimeto,Lara,Venezuela
+LINOD,"Ave. 5 de Mayo Porlamar","I. de Margarita","Nueva Esparta",Venezuela
+LONEP,"89 Chiaroscuro Rd.",Portland,OR,États-Unis
+MAGAA,"Via Ludovico il Moro 22",Bergamo,NULL,Italie
+MAISD,"Rue Joseph-Bens 532",Bruxelles,NULL,Belgique
+MEREP,"43 rue St. Laurent",Montréal,Québec,Canada
+MORGK,"Heerstr. 22",Leipzig,NULL,Allemagne
+NORTS,"South House
+300 Queensbridge",London,NULL,Royaume-Uni
+OCEAN,"Ing. Gustavo Moncada 8585
+Piso 20-A","Buenos Aires",NULL,Argentine
+OLDWO,"2743 Bering St.",Anchorage,AK,États-Unis
+OTTIK,"Mehrheimerstr. 369",Köln,NULL,Allemagne
+PARIS,"265, boulevard Charonne",Paris,NULL,France
+PERIC,"Calle Dr. Jorge Cash 321","México D.F.",NULL,Mexique
+PICCO,"Geislweg 14",Salzburg,NULL,Autriche
+PRINI,"Estrada da saúde n. 58",Lisboa,NULL,Portugal
+QUEDE,"Rua da Panificadora, 12","Rio de Janeiro",RJ,Brésil
+QUEEN,"Alameda dos Canàrios, 891","São Paulo",SP,Brésil
+QUICK,"Taucherstraße 10",Cunewalde,NULL,Allemagne
+RANCH,"Av. del Libertador 900","Buenos Aires",NULL,Argentine
+RATTC,"2817 Milton Dr.",Albuquerque,NM,États-Unis
+REGGC,"Strada Provinciale 124","Reggio Emilia",NULL,Italie
+RICAR,"Av. Copacabana, 267","Rio de Janeiro",RJ,Brésil
+RICSU,"Grenzacherweg 237",Genève,NULL,Suisse
+ROMEY,"Gran Vía, 1",Madrid,NULL,Espagne
+SANTG,"Erling Skakkes gate 78",Stavern,NULL,Norvège
+SAVEA,"187 Suffolk Ln.",Boise,ID,États-Unis
+SEVES,"90 Wadhurst Rd.",London,NULL,Royaume-Uni
+SIMOB,"Vinbæltet 34",København,NULL,Danemark
+SPECD,"25, rue Lauriston",Paris,NULL,France
+SPLIR,"P.O. Box 555",Lander,WY,États-Unis
+SUPRD,"Boulevard Tirou, 255",Charleroi,NULL,Belgique
+THEBI,"89 Jefferson Way
+Suite 2",Portland,OR,États-Unis
+THECR,"55 Grizzly Peak Rd.",Butte,MT,États-Unis
+TOMSP,"Luisenstr. 48",Münster,NULL,Allemagne
+TORTU,"Avda. Azteca 123","México D.F.",NULL,Mexique
+TRADH,"Av. Inês de Castro, 414","São Paulo",SP,Brésil
+TRAIH,"722 DaVinci Blvd.",Kirkland,WA,États-Unis
+VAFFE,"Smagsløget 45",Århus,NULL,Danemark
+VICTE,"2, rue du Commerce",Lyon,NULL,France
+VINET,"59 rue de l'Abbaye",Reims,NULL,France
+WANDK,"Adenauerallee 900",Stuttgart,NULL,Allemagne
+WARTH,"Torikatu 38",Oulu,NULL,Finlande
+WELLI,"Rua do Mercado, 12",Resende,SP,Brésil
+WHITC,"305 - 14th Ave. S.
+Suite 3B",Seattle,WA,États-Unis
+WILMK,"Keskuskatu 45",Helsinki,NULL,Finlande
+WOLZA,"ul. Filtrowa 68",Warszawa,NULL,Pologne
